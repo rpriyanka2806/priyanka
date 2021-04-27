@@ -1,10 +1,10 @@
 package githubvali;
 
-public class main {
+public class maintwo {
 	
 	public static void main(String[] args)
 	{
-		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 
 }
